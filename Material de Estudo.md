@@ -8,7 +8,7 @@ http://faculty.marshall.usc.edu/gareth-james/ISL/
 https://jakevdp.github.io/PythonDataScienceHandbook/
 
 # Minimally Sufficient Pandas
-m.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428
+https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428
 
 # Why and How to Use Pandas with Large Data
 https://towardsdatascience.com/why-and-how-to-use-pandas-with-large-data-9594dda2ea4c
